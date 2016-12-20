@@ -1,4 +1,4 @@
-# Fishery_census_Specialized_part-time_by_management_body_the_number_of_self-employed_fishing
+# fishery_census_specialized_part-time_by_management_body_the_number_of_self-employed_fishing
 　【和歌山県　漁業センサス です。】
 ◆漁業センサスとは
 我が国の漁業の生産構造、就業構造を明らかにするとともに、漁村、水産物流通・加工業等の漁業を取り巻く実態と変化を総合的に把握するために、 統計法に基づき、５年ごとに実施している基幹統計調査です。
